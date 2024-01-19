@@ -1,3 +1,5 @@
+// Un programa JAVA muy sencillo que calcula las notas y da la media.
+
 import java.util.Scanner;
 
 public class Notas {
